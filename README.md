@@ -14,3 +14,4 @@ Argo CD Deployment: The pipeline seamlessly transitions to Argo CD, a GitOps too
 Kubernetes Cluster: The application is deployed in a Kubernetes cluster, benefiting from the scalability and efficiency of Kubernetes technology.
 
 The synergy between Django, MongoDB, and the Djongo framework sets the foundation for "Djongo-Todo," while the robust CI/CD pipeline guarantees efficient deployment and updates. This comprehensive approach makes "Djongo-Todo" a valuable tool for individuals and teams seeking to optimize their task management processes.
+
