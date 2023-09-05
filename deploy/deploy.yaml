@@ -1,3 +1,7 @@
+# Kubernetes Deployment for Todo App
+# This YAML defines a Kubernetes Deployment for a "todo-app" using the nginx-based image "abhishekf5/todo-app:v1".
+# It ensures high availability with three replicas and exposes the app on port 8000.
+
 apiVersion: apps/v1
 kind: Deployment
 metadata:
